@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![VarizkyNaldiba's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VarizkyNaldiba&theme=react&hide_border=true)
+<div class="tenor-gif-embed" data-postid="22091684" data-share-method="host" data-aspect-ratio="0.99375" data-width="100%"><a href="https://tenor.com/view/kaedehara-kazuha-kazuha-genshin-genshin-impact-kazuha-genshin-gif-22091684">Kaedehara Kazuha Kazuha GIF</a>from <a href="https://tenor.com/search/kaedehara+kazuha-gifs">Kaedehara Kazuha GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
