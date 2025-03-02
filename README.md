@@ -1,5 +1,4 @@
 <p>
-    <img src="https://media.tenor.com/3Ik1TQC1-JkAAAAM/kamisato-ayaka-ayaka-kamisato.gif" width="48%">
     <img src="https://i.pinimg.com/originals/9a/ff/0f/9aff0fe07a1db674923cf51e80e662ed.gif" width="51%";>
     <table>
         <tr>
