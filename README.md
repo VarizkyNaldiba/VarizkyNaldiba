@@ -7,7 +7,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&count_private=true" width="100%">
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=VarizkyNaldiba&theme=github-dark-blue" alt="GitHub Streak">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=VarizkyNaldiba&theme=github-dark-blue" alt="GitHub Streak" width="100%>
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="100%">
