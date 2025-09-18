@@ -10,7 +10,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="100%">
         </td>
         <td>
-            <img href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VarizkyNaldiba&theme=city-lights&border_radius=4" alt="GitHub Streak">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=VarizkyNaldiba&theme=city-lights&border_radius=4" alt="GitHub Streak">
         </td>
     </tr>
 </table>
