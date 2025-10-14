@@ -7,18 +7,33 @@
     <img src="https://i.pinimg.com/originals/9a/ff/0f/9aff0fe07a1db674923cf51e80e662ed.gif" width="400">
 </p>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst+Enthusiast;UX Designer;Data+Scientist+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</p>
-
 ## About Me
 
 I'm a passionate developer and data enthusiast who loves creating innovative solutions and bringing ideas to life through code and data insights. I have a strong interest in data analysis and data science, extracting meaningful patterns from complex datasets. I enjoy working with modern technologies and constantly learning new frameworks and tools to enhance my analytical and development skills.
 
-| **Info** | **Details** |
-|----------|-------------|
-| Education | Informatics Student at Polinema |
-| Currently learning | Computer Vision, Machine Learning, and Mobile Development |
+## Currently learning
+
+<div align="center">
+
+<table align="center">
+    <tr>
+        <th>Machine Learning</th>
+        <th>Project Link</th>
+    </tr>
+    <tr>
+        <td>ML Ganjil 2025</td>
+        <td><a href="https://github.com/VarizkyNaldiba/ML_Ganjil_2025">github.com/VarizkyNaldiba/ML_Ganjil_2025</a></td>
+    </tr>
+    <tr>
+        <td>PCVK Ganjil 2025</td>
+        <td><a href="https://github.com/VarizkyNaldiba/PCVK_Ganjil_2025">github.com/VarizkyNaldiba/PCVK_Ganjil_2025</a></td>
+    </tr>
+    <tr>
+        <td>MobileDev 2025</td>
+        <td><a href="https://github.com/VarizkyNaldiba/MobileDev_2025">github.com/VarizkyNaldiba/MobileDev_2025</a></td>
+    </tr>
+</table>
+</div>
 
 
 ## Tech Stack
