@@ -1,16 +1,100 @@
-<p align="center">
-    <img src="https://i.pinimg.com/originals/9a/ff/0f/9aff0fe07a1db674923cf51e80e662ed.gif" width="51%">
+# Hi there, I'm Varizky Naldiba! 👋
+
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=VarizkyNaldiba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
+<p align="center">
+    <img src="https://i.pinimg.com/originals/9a/ff/0f/9aff0fe07a1db674923cf51e80e662ed.gif" width="400">
+</p>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst+Enthusiast;UX Designer;Data+Scientist+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</p>
+
+## About Me
+
+I'm a passionate developer and data enthusiast who loves creating innovative solutions and bringing ideas to life through code and data insights. I have a strong interest in data analysis and data science, extracting meaningful patterns from complex datasets. I enjoy working with modern technologies and constantly learning new frameworks and tools to enhance my analytical and development skills.
+
+| **Info** | **Details** |
+|----------|-------------|
+| Education | Informatics Student at Polinema |
+| Currently learning | Computer Vision, Machine Learning, and Mobile Development |
+
+
+## Tech Stack
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+
+### Data Science & Analytics
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+
+## GitHub Statistics
+
 <table>
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&count_private=true" width="100%">
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=VarizkyNaldiba&theme=prussian" width="100%">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=VarizkyNaldiba&theme=prussian&hide_border=true" width="100%">
         </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="100%">
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="50%">
         </td>
     </tr>
 </table>
+
+## GitHub Activity
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarizkyNaldiba&theme=react-dark&hide_border=true" width="100%">
+</p>
+
+## Connect with Me
+
+<p align="center">
+    <a href="https://github.com/VarizkyNaldiba">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="varizkynr@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/varizkynaldiba/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+</p>
+
+---
+
+<p align="center">
+    Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!
+</p>
