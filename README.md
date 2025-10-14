@@ -13,28 +13,24 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
 
 ## Currently learning
 
-<div align="center">
-
 <table align="center">
     <tr>
-        <th>Machine Learning</th>
-        <th>Project Link</th>
+        <th>Course</th>
+        <th>Repository</th>
     </tr>
     <tr>
-        <td>ML Ganjil 2025</td>
-        <td><a href="https://github.com/VarizkyNaldiba/ML_Ganjil_2025">github.com/VarizkyNaldiba/ML_Ganjil_2025</a></td>
+        <td>Machine Learning</td>
+        <td><a href="https://github.com/VarizkyNaldiba/ML_Ganjil_2025">ML_Ganjil_2025</a></td>
     </tr>
     <tr>
-        <td>PCVK Ganjil 2025</td>
-        <td><a href="https://github.com/VarizkyNaldiba/PCVK_Ganjil_2025">github.com/VarizkyNaldiba/PCVK_Ganjil_2025</a></td>
+        <td>Computer Vision</td>
+        <td><a href="https://github.com/VarizkyNaldiba/PCVK_Ganjil_2025">PCVK_Ganjil_2025</a></td>
     </tr>
     <tr>
-        <td>MobileDev 2025</td>
-        <td><a href="https://github.com/VarizkyNaldiba/MobileDev_2025">github.com/VarizkyNaldiba/MobileDev_2025</a></td>
-    </tr>
-</table>
-</div>
+        <td>Mobile Development</td>
+        <td><a href="https://github.com/VarizkyNaldiba/MobileDev_2025">MobileDev_2025</a></td>
 
+</table>
 
 ## Tech Stack
 
@@ -69,6 +65,43 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
+---
+
+## My Projects
+
+<table align="center">
+    <tr>
+        <th>Project Name</th>
+        <th>Description</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>SoraWeb Challenge</td>
+        <td>Fun match with SoraWeb Gank (just for fun)</td>
+        <td><a href="https://github.com/VarizkyNaldiba/SoraWeb">Repository</a></td>
+    </tr>
+    <tr>
+        <td>PBL Semester 3</td>
+        <td>Student Rules and Regulations System (UI/UX Designer)</td>
+        <td><a href="https://github.com/VarizkyNaldiba/TataTertibMhs">Repository</a></td>
+    </tr>
+    <tr>
+        <td>PBL Semester 4</td>
+        <td>Student Achievement Recording (Fullstack Developer)</td>
+        <td><a href="https://github.com/VarizkyNaldiba/Prestasi-Mahasiswa-S4">Repository</a></td>
+    </tr>
+    <tr>
+        <td>Technofair Competition</td>
+        <td>Seaweed Pond Water Quality Monitoring System Based on IoT and Harvest Prediction Using Machine Learning (Machine Learning)</td>
+        <td><a href="https://github.com/VarizkyNaldiba/Algasense">Repository</a></td>
+    </tr>
+    <tr>
+        <td>Komdigi East Java Competition</td>
+        <td>Access and Quality of Educational Services and Public Facilities in the Digital Era (Data Analyst)</td>
+        <td><a href="https://github.com/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025">Repository</a></td>
+    </tr>
+</table>
+
 
 ## GitHub Statistics
 
@@ -86,7 +119,6 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="50%">
         </td>
     </tr>
-</table>
 
 ## GitHub Activity
 
