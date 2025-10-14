@@ -29,7 +29,7 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
     <tr>
         <td>Mobile Development</td>
         <td><a href="https://github.com/VarizkyNaldiba/MobileDev_2025">MobileDev_2025</a></td>
-
+    </tr>
 </table>
 
 ## Tech Stack
@@ -44,7 +44,6 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-
 ### Data Science & Analytics
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -56,7 +55,6 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -102,7 +100,6 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
     </tr>
 </table>
 
-
 ## GitHub Statistics
 
 <table>
@@ -119,6 +116,7 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="50%">
         </td>
     </tr>
+</table>
 
 ## GitHub Activity
 
@@ -132,7 +130,7 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
     <a href="https://github.com/VarizkyNaldiba">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="varizkynr@gmail.com">
+    <a href="mailto:varizkynr@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/varizkynaldiba/">
