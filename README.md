@@ -16,18 +16,22 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
 <table align="center">
     <tr>
         <th>Course</th>
+        <th>Description</th>
         <th>Repository</th>
     </tr>
     <tr>
         <td>Machine Learning</td>
+        <td>Learning algorithms, data preprocessing, and model building</td>
         <td><a href="https://github.com/VarizkyNaldiba/ML_Ganjil_2025">ML_Ganjil_2025</a></td>
     </tr>
     <tr>
         <td>Computer Vision</td>
+        <td>Image processing, object detection, and visual recognition</td>
         <td><a href="https://github.com/VarizkyNaldiba/PCVK_Ganjil_2025">PCVK_Ganjil_2025</a></td>
     </tr>
     <tr>
         <td>Mobile Development</td>
+        <td>Building mobile applications for Android and iOS platforms</td>
         <td><a href="https://github.com/VarizkyNaldiba/MobileDev_2025">MobileDev_2025</a></td>
     </tr>
 </table>
@@ -110,10 +114,8 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com?user=VarizkyNaldiba&theme=prussian&hide_border=true" width="100%">
         </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="50%">
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="100%">
         </td>
     </tr>
 </table>
