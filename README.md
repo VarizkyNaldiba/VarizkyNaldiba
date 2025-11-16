@@ -1,10 +1,11 @@
-# Hi there, I'm Varizky Naldiba! 👋
-
-<p align="right">
-    <img src="https://komarev.com/ghpvc/?username=VarizkyNaldiba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
 <p align="center">
-    <img src="https://i.pinimg.com/originals/9a/ff/0f/9aff0fe07a1db674923cf51e80e662ed.gif" width="400">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:0e75b6,100:1e3c72&text=Hi%20There,%20I'm%20Varizky%20Naldiba!%20&fontColor=ffffff&fontSize=48&textBg=false" />
+
+
+</p>
+
+<p align="center">
+    <img src="https://i.pinimg.com/originals/9a/ff/0f/9aff0fe07a1db674923cf51e80e662ed.gif" width="850">
 </p>
 
 ## About Me
@@ -149,4 +150,8 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
 
 <p align="center">
     Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:0e75b6&height=140&section=footer" />
 </p>
