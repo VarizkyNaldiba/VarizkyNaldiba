@@ -97,6 +97,16 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
         <td>Access and Quality of Educational Services and Public Facilities in the Digital Era (Data Analyst)</td>
         <td><a href="https://github.com/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025">Repository</a></td>
     </tr>
+    <tr>
+        <td>Data Mining - Hology Universitas Brawijaya</td>
+        <td>Crowd Counting (Data Scientist) </td>
+        <td><a href ="https://github.com/VarizkyNaldiba/PenyelamHandal_Hology">Repository</a></td>   
+    </tr>
+    <tr>
+        <td>Data Mining - Intelecta Telkom University</td>
+        <td>Temperature Prediction with Agroclimatology Dataset (Data Scientist)</td>
+        <td><a href= "https://github.com/VarizkyNaldiba/Intelecta_P-1ML">Repository<a/></td>   
+    </tr>
 </table>
 
 ## GitHub Statistics
