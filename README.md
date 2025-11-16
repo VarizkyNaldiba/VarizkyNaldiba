@@ -78,11 +78,6 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
         <th>Link</th>
     </tr>
     <tr>
-        <td>SoraWeb Challenge</td>
-        <td>Fun match with SoraWeb Gank (just for fun)</td>
-        <td><a href="https://github.com/VarizkyNaldiba/SoraWeb">Repository</a></td>
-    </tr>
-    <tr>
         <td>PBL Semester 3</td>
         <td>Student Rules and Regulations System (UI/UX Designer)</td>
         <td><a href="https://github.com/VarizkyNaldiba/TataTertibMhs">Repository</a></td>
