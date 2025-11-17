@@ -1,43 +1,32 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:0e75b6,100:1e3c72&text=Hi%20There,%20I'm%20Varizky%20Naldiba!%20&fontColor=ffffff&fontSize=48&textBg=false" />
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hi%20There,%20I'm%20Varizky%20Naldiba!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200">
 
-<p align="center">
-    <img src="https://i.pinimg.com/originals/9a/ff/0f/9aff0fe07a1db674923cf51e80e662ed.gif" width="200">
-</p>
+<img src="https://komarev.com/ghpvc/?username=VarizkyNaldiba&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
+
+</div>
 
 ## About Me
 
-I'm a passionate developer and data enthusiast who loves creating innovative solutions and bringing ideas to life through code and data insights. I have a strong interest in data analysis and data science, extracting meaningful patterns from complex datasets. I enjoy working with modern technologies and constantly learning new frameworks and tools to enhance my analytical and development skills.
+I'm a passionate developer and data enthusiast who loves creating innovative solutions and bringing ideas to life through code and data insights. I have a strong interest in **data analysis** and **data science**, extracting meaningful patterns from complex datasets. I enjoy working with modern technologies and constantly learning new frameworks and tools to enhance my analytical and development skills.
 
-## Currently learning
+## Currently Learning
 
-<table align="center">
-    <tr>
-        <th>Course</th>
-        <th>Description</th>
-        <th>Repository</th>
-    </tr>
-    <tr>
-        <td>Machine Learning</td>
-        <td>Learning algorithms, data preprocessing, and model building</td>
-        <td><a href="https://github.com/VarizkyNaldiba/ML_Ganjil_2025">ML_Ganjil_2025</a></td>
-    </tr>
-    <tr>
-        <td>Computer Vision</td>
-        <td>Image processing, object detection, and visual recognition</td>
-        <td><a href="https://github.com/VarizkyNaldiba/PCVK_Ganjil_2025">PCVK_Ganjil_2025</a></td>
-    </tr>
-    <tr>
-        <td>Mobile Development</td>
-        <td>Building mobile applications for Android and iOS platforms</td>
-        <td><a href="https://github.com/VarizkyNaldiba/MobileDev_2025">MobileDev_2025</a></td>
-    </tr>
-</table>
+<div align="center">
+
+| Course | Description | Repository |
+|:---|:---|:---:|
+| **Machine Learning** | Learning algorithms, data preprocessing, and model building | [ML_Ganjil_2025](https://github.com/VarizkyNaldiba/ML_Ganjil_2025) |
+| **Computer Vision** | Image processing, object detection, and visual recognition | [PCVK_Ganjil_2025](https://github.com/VarizkyNaldiba/PCVK_Ganjil_2025) |
+| **Mobile Development** | Building mobile applications for Android and iOS platforms | [MobileDev_2025](https://github.com/VarizkyNaldiba/MobileDev_2025) |
+
+</div>
 
 ## Tech Stack
+
+<div align="center">
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -68,90 +57,73 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
----
+</div>
 
 ## My Projects
 
-<table align="center">
-    <tr>
-        <th>Project Name</th>
-        <th>Description</th>
-        <th>Link</th>
-    </tr>
-    <tr>
-        <td>PBL Semester 3</td>
-        <td>Student Rules and Regulations System (UI/UX Designer)</td>
-        <td><a href="https://github.com/VarizkyNaldiba/TataTertibMhs">Repository</a></td>
-    </tr>
-    <tr>
-        <td>PBL Semester 4</td>
-        <td>Student Achievement Recording (Fullstack Developer)</td>
-        <td><a href="https://github.com/VarizkyNaldiba/Prestasi-Mahasiswa-S4">Repository</a></td>
-    </tr>
-    <tr>
-        <td>Technofair Competition</td>
-        <td>Seaweed Pond Water Quality Monitoring System Based on IoT and Harvest Prediction Using Machine Learning (Machine Learning)</td>
-        <td><a href="https://github.com/VarizkyNaldiba/Algasense">Repository</a></td>
-    </tr>
-    <tr>
-        <td>Komdigi East Java Competition</td>
-        <td>Access and Quality of Educational Services and Public Facilities in the Digital Era (Data Analyst)</td>
-        <td><a href="https://github.com/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025">Repository</a></td>
-    </tr>
-    <tr>
-        <td>Data Mining - Hology Universitas Brawijaya</td>
-        <td>Crowd Counting (Data Scientist) </td>
-        <td><a href ="https://github.com/VarizkyNaldiba/PenyelamHandal_Hology">Repository</a></td>   
-    </tr>
-    <tr>
-        <td>Data Mining - Intelecta Telkom University</td>
-        <td>Temperature Prediction with Agroclimatology Dataset (Data Scientist)</td>
-        <td><a href= "https://github.com/VarizkyNaldiba/Intelecta_P-1ML">Repository<a/></td>   
-    </tr>
-</table>
+<div align="center">
+
+| Project Name | Description | Link |
+|:---|:---|:---:|
+| **PBL Semester 3** | Student Rules and Regulations System <br> *UI/UX Designer* | [View](https://github.com/VarizkyNaldiba/TataTertibMhs) |
+| **PBL Semester 4** | Student Achievement Recording <br> *Fullstack Developer* | [View](https://github.com/VarizkyNaldiba/Prestasi-Mahasiswa-S4) |
+| **Technofair Competition** | Seaweed Pond Water Quality Monitoring System Based on IoT and Harvest Prediction Using Machine Learning <br> *Machine Learning Engineer* | [View](https://github.com/VarizkyNaldiba/Algasense) |
+| **Komdigi East Java Competition** | Access and Quality of Educational Services and Public Facilities in the Digital Era <br> *Data Analyst* | [View](https://github.com/FarrelAD/Tim-Maju-Lancar-Datathon-Jatim-2025) |
+| **Data Mining - Hology Universitas Brawijaya** | Crowd Counting <br> *Data Scientist* | [View](https://github.com/VarizkyNaldiba/PenyelamHandal_Hology) |
+| **Data Mining - Intelecta Telkom University** | Temperature Prediction with Agroclimatology Dataset <br> *Data Scientist* | [View](https://github.com/VarizkyNaldiba/Intelecta_P-1ML) |
+
+</div>
 
 ## GitHub Statistics
 
+<div align="center">
+
 <table>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&count_private=true" width="100%">
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=VarizkyNaldiba&theme=prussian&hide_border=true" width="100%">
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="100%">
-        </td>
-    </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&count_private=true" width="100%" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=VarizkyNaldiba&theme=prussian&hide_border=true" width="100%" alt="GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarizkyNaldiba&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="50%" alt="Top Languages">
+    </td>
+  </tr>
 </table>
+
+</div>
 
 ## GitHub Activity
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarizkyNaldiba&theme=react-dark&hide_border=true" width="100%">
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VarizkyNaldiba&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph">
+
+</div>
 
 ## Connect with Me
 
-<p align="center">
-    <a href="https://github.com/VarizkyNaldiba">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://www.instagram.com/v.naldiba/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/varizkynaldiba/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarizkyNaldiba)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v.naldiba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varizkynaldiba/)
+
+</div>
 
 ---
 
-<p align="center">
-    Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:0e75b6&height=140&section=footer" />
-</p>
+### Thanks for Visiting!
+
+Feel free to explore my repositories and don't forget to star if you find something interesting!
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
