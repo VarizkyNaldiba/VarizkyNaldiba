@@ -12,7 +12,7 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
 
 ## Currently Learning
 
-<div align="center">
+<!-- <div align="center">
 
 | Course | Description | Repository |
 |:---|:---|:---:|
@@ -20,7 +20,7 @@ I'm a passionate developer and data enthusiast who loves creating innovative sol
 | **Computer Vision** | Image processing, object detection, and visual recognition | [PCVK_Ganjil_2025](https://github.com/VarizkyNaldiba/PCVK_Ganjil_2025) |
 | **Mobile Development** | Building mobile applications for Android and iOS platforms | [MobileDev_2025](https://github.com/VarizkyNaldiba/MobileDev_2025) |
 
-</div>
+</div> -->
 
 ## Tech Stack
 
