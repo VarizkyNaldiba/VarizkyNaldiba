@@ -10,17 +10,7 @@
 
 I'm a passionate developer and data enthusiast who loves creating innovative solutions and bringing ideas to life through code and data insights. I have a strong interest in **data analysis** and **data science**, extracting meaningful patterns from complex datasets. I enjoy working with modern technologies and constantly learning new frameworks and tools to enhance my analytical and development skills.
 
-## Currently Learning
 
-<!-- <div align="center">
-
-| Course | Description | Repository |
-|:---|:---|:---:|
-| **Machine Learning** | Learning algorithms, data preprocessing, and model building | [ML_Ganjil_2025](https://github.com/VarizkyNaldiba/ML_Ganjil_2025) |
-| **Computer Vision** | Image processing, object detection, and visual recognition | [PCVK_Ganjil_2025](https://github.com/VarizkyNaldiba/PCVK_Ganjil_2025) |
-| **Mobile Development** | Building mobile applications for Android and iOS platforms | [MobileDev_2025](https://github.com/VarizkyNaldiba/MobileDev_2025) |
-
-</div> -->
 
 ## Tech Stack
 
