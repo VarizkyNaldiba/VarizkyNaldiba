@@ -6,21 +6,6 @@
 
 I am an Informatics student specializing in **Data Science**, **Machine Learning**, and **Data Analytics**. I love translating complex, unstructured data into actionable insights and designing predictive models that solve real-world problems. 
 
-Driven by the philosophy that *"Data is using the past for a better future,"* I bridge the gap between backend engineering, telemetry data collection (IoT), and intelligent predictive modeling.
-
----
-
-## 🚀 Featured Projects & Portfolio
-
-Rather than keeping static repository lists, I maintain an interactive portfolio highlighting my latest engineering and analytical work. Click the banner below to explore my live systems, telemetry trackers, and AI models:
-
-<div align="center">
-  <a href="https://myprofile-nine-sigma.vercel.app/" target="_blank">
-    <img src="image/portfolio_banner.svg" width="100%" alt="Varizky Naldiba Interactive Portfolio" />
-  </a>
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
