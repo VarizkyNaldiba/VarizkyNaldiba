@@ -1,0 +1,105 @@
+<svg width="100%" height="260" viewBox="0 0 600 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="chart-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f1a" />
+      <stop offset="100%" stop-color="#070a12" />
+    </linearGradient>
+
+    <!-- Bar Fill Gradients -->
+    <linearGradient id="bar-ds" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#60a5fa" />
+    </linearGradient>
+    <linearGradient id="bar-ml" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#60a5fa" />
+    </linearGradient>
+    <linearGradient id="bar-da" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="bar-web" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.7" />
+    </linearGradient>
+    <linearGradient id="bar-iot" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.6" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="bar-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Outfit:wght@600;700&amp;display=swap');
+    .title { font-family: 'Outfit', 'Segoe UI', sans-serif; font-size: 15px; font-weight: 700; fill: #ffffff; letter-spacing: 0.5px; }
+    .label { font-family: 'Outfit', 'Segoe UI', sans-serif; font-size: 12px; font-weight: 600; fill: #9ca3af; }
+    .count { font-family: 'Inter', 'Segoe UI', sans-serif; font-size: 11px; font-weight: 600; fill: #60a5fa; }
+    .track { fill: #1e293b; fill-opacity: 0.4; stroke: #1e293b; stroke-opacity: 0.3; }
+  </style>
+
+  <!-- Background Card -->
+  <rect width="600" height="260" rx="10" fill="url(#chart-bg)" stroke="#1e293b" stroke-opacity="0.8" />
+  
+  <!-- Header Title -->
+  <g transform="translate(30, 30)">
+    <circle cx="5" cy="5" r="4" fill="#3b82f6" filter="url(#bar-glow)" />
+    <text x="20" y="9" class="title">PROJECT DISTRIBUTION BY FIELD</text>
+  </g>
+
+  <!-- Chart Contents -->
+  <!-- Row 1: Data Science -->
+  <g transform="translate(30, 60)">
+    <text x="0" y="14" class="label">Data Science</text>
+    <!-- Bar Track -->
+    <rect x="150" y="4" width="350" height="10" rx="5" class="track" />
+    <!-- Bar Fill (5 Projects -> 100% -> 350px) -->
+    <rect x="150" y="4" width="350" height="10" rx="5" fill="url(#bar-ds)" filter="url(#bar-glow)" />
+    <text x="515" y="13" class="count">5 Projects</text>
+  </g>
+
+  <!-- Row 2: Machine Learning -->
+  <g transform="translate(30, 95)">
+    <text x="0" y="14" class="label">Machine Learning</text>
+    <!-- Bar Track -->
+    <rect x="150" y="4" width="350" height="10" rx="5" class="track" />
+    <!-- Bar Fill (5 Projects -> 100% -> 350px) -->
+    <rect x="150" y="4" width="350" height="10" rx="5" fill="url(#bar-ml)" />
+    <text x="515" y="13" class="count">5 Projects</text>
+  </g>
+
+  <!-- Row 3: Data Analytics -->
+  <g transform="translate(30, 130)">
+    <text x="0" y="14" class="label">Data Analytics</text>
+    <!-- Bar Track -->
+    <rect x="150" y="4" width="350" height="10" rx="5" class="track" />
+    <!-- Bar Fill (3 Projects -> 60% -> 210px) -->
+    <rect x="150" y="4" width="210" height="10" rx="5" fill="url(#bar-da)" />
+    <text x="515" y="13" class="count">3 Projects</text>
+  </g>
+
+  <!-- Row 4: Web Development -->
+  <g transform="translate(30, 165)">
+    <text x="0" y="14" class="label">Web Development</text>
+    <!-- Bar Track -->
+    <rect x="150" y="4" width="350" height="10" rx="5" class="track" />
+    <!-- Bar Fill (3 Projects -> 60% -> 210px) -->
+    <rect x="150" y="4" width="210" height="10" rx="5" fill="url(#bar-web)" />
+    <text x="515" y="13" class="count">3 Projects</text>
+  </g>
+
+  <!-- Row 5: Internet of Things -->
+  <g transform="translate(30, 200)">
+    <text x="0" y="14" class="label">Internet of Things</text>
+    <!-- Bar Track -->
+    <rect x="150" y="4" width="350" height="10" rx="5" class="track" />
+    <!-- Bar Fill (2 Projects -> 40% -> 140px) -->
+    <rect x="150" y="4" width="140" height="10" rx="5" fill="url(#bar-iot)" />
+    <text x="515" y="13" class="count">2 Projects</text>
+  </g>
+</svg>
