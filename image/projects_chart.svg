@@ -28,11 +28,6 @@
       <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.6" />
     </linearGradient>
 
-    <!-- Glow Filter -->
-    <filter id="bar-glow" x="-10%" y="-10%" width="120%" height="120%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
   </defs>
 
   <style>
@@ -48,7 +43,7 @@
   
   <!-- Header Title -->
   <g transform="translate(30, 30)">
-    <circle cx="5" cy="5" r="4" fill="#3b82f6" filter="url(#bar-glow)" />
+    <circle cx="5" cy="5" r="4" fill="#3b82f6" />
     <text x="20" y="9" class="title">PROJECT DISTRIBUTION BY FIELD</text>
   </g>
 
@@ -59,7 +54,7 @@
     <!-- Bar Track -->
     <rect x="150" y="4" width="350" height="10" rx="5" class="track" />
     <!-- Bar Fill (5 Projects -> 100% -> 350px) -->
-    <rect x="150" y="4" width="350" height="10" rx="5" fill="url(#bar-ds)" filter="url(#bar-glow)" />
+    <rect x="150" y="4" width="350" height="10" rx="5" fill="url(#bar-ds)" />
     <text x="515" y="13" class="count">5 Projects</text>
   </g>
 

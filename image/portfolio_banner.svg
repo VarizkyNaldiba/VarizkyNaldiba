@@ -11,12 +11,6 @@
       <stop offset="0%" stop-color="#3b82f6" />
       <stop offset="100%" stop-color="#1d4ed8" />
     </linearGradient>
-
-    <!-- Glow Filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
   </defs>
 
   <style>
@@ -47,7 +41,7 @@
     <path d="M22 28 L38 28 M22 32 L34 32" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round" />
     
     <!-- Decorative sparkle dot -->
-    <circle cx="45" cy="18" r="2.5" fill="#60a5fa" filter="url(#glow)" />
+    <circle cx="45" cy="18" r="2.5" fill="#60a5fa" />
   </g>
 
   <!-- Text Details -->
@@ -75,10 +69,8 @@
 
   <!-- Right Call-to-Action Button -->
   <g transform="translate(620, 42)">
-    <rect width="155" height="36" rx="6" fill="url(#btn-grad)" filter="url(#glow)" />
-    <!-- Text and arrow -->
-    <text x="68" y="22" text-anchor="middle" class="font-btn">LAUNCH PORTFOLIO</text>
-    <!-- Arrow Icon -->
-    <path d="M123 15 L129 21 L123 27 M129 21 L115 21" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <rect width="155" height="36" rx="6" fill="url(#btn-grad)" />
+    <!-- Text -->
+    <text x="77.5" y="22" text-anchor="middle" class="font-btn">LAUNCH PORTFOLIO</text>
   </g>
 </svg>
