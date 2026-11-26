@@ -48,53 +48,53 @@
   </g>
 
   <!-- Chart Contents -->
-  <!-- Row 1: Data Science -->
+  <!-- Row 1: Machine Learning & AI -->
   <g transform="translate(30, 60)">
-    <text x="0" y="14" class="label">Data Science</text>
+    <text x="0" y="14" class="label">Machine Learning &amp; AI</text>
     <!-- Bar Track -->
-    <rect x="150" y="4" width="350" height="10" rx="5" class="track" />
-    <!-- Bar Fill (5 Projects -> 100% -> 350px) -->
-    <rect x="150" y="4" width="350" height="10" rx="5" fill="url(#bar-ds)" />
+    <rect x="180" y="4" width="320" height="10" rx="5" class="track" />
+    <!-- Bar Fill (5 Projects -> 100% -> 320px) -->
+    <rect x="180" y="4" width="320" height="10" rx="5" fill="url(#bar-ml)" />
     <text x="515" y="13" class="count">5 Projects</text>
   </g>
 
-  <!-- Row 2: Machine Learning -->
+  <!-- Row 2: IoT & Embedded Systems -->
   <g transform="translate(30, 95)">
-    <text x="0" y="14" class="label">Machine Learning</text>
+    <text x="0" y="14" class="label">IoT &amp; Embedded Systems</text>
     <!-- Bar Track -->
-    <rect x="150" y="4" width="350" height="10" rx="5" class="track" />
-    <!-- Bar Fill (5 Projects -> 100% -> 350px) -->
-    <rect x="150" y="4" width="350" height="10" rx="5" fill="url(#bar-ml)" />
-    <text x="515" y="13" class="count">5 Projects</text>
+    <rect x="180" y="4" width="320" height="10" rx="5" class="track" />
+    <!-- Bar Fill (4 Projects -> 80% -> 256px) -->
+    <rect x="180" y="4" width="256" height="10" rx="5" fill="url(#bar-iot)" />
+    <text x="515" y="13" class="count">4 Projects</text>
   </g>
 
-  <!-- Row 3: Data Analytics -->
+  <!-- Row 3: Geospatial & Analytics -->
   <g transform="translate(30, 130)">
-    <text x="0" y="14" class="label">Data Analytics</text>
+    <text x="0" y="14" class="label">Geospatial &amp; Analytics</text>
     <!-- Bar Track -->
-    <rect x="150" y="4" width="350" height="10" rx="5" class="track" />
-    <!-- Bar Fill (3 Projects -> 60% -> 210px) -->
-    <rect x="150" y="4" width="210" height="10" rx="5" fill="url(#bar-da)" />
-    <text x="515" y="13" class="count">3 Projects</text>
+    <rect x="180" y="4" width="320" height="10" rx="5" class="track" />
+    <!-- Bar Fill (4 Projects -> 80% -> 256px) -->
+    <rect x="180" y="4" width="256" height="10" rx="5" fill="url(#bar-ds)" />
+    <text x="515" y="13" class="count">4 Projects</text>
   </g>
 
-  <!-- Row 4: Web Development -->
+  <!-- Row 4: Web & Enterprise Platforms -->
   <g transform="translate(30, 165)">
-    <text x="0" y="14" class="label">Web Development</text>
+    <text x="0" y="14" class="label">Full-Stack &amp; Platforms</text>
     <!-- Bar Track -->
-    <rect x="150" y="4" width="350" height="10" rx="5" class="track" />
-    <!-- Bar Fill (3 Projects -> 60% -> 210px) -->
-    <rect x="150" y="4" width="210" height="10" rx="5" fill="url(#bar-web)" />
-    <text x="515" y="13" class="count">3 Projects</text>
+    <rect x="180" y="4" width="320" height="10" rx="5" class="track" />
+    <!-- Bar Fill (4 Projects -> 80% -> 256px) -->
+    <rect x="180" y="4" width="256" height="10" rx="5" fill="url(#bar-web)" />
+    <text x="515" y="13" class="count">4 Projects</text>
   </g>
 
-  <!-- Row 5: Internet of Things -->
+  <!-- Row 5: Generative AI & Automation -->
   <g transform="translate(30, 200)">
-    <text x="0" y="14" class="label">Internet of Things</text>
+    <text x="0" y="14" class="label">Generative AI &amp; LLM</text>
     <!-- Bar Track -->
-    <rect x="150" y="4" width="350" height="10" rx="5" class="track" />
-    <!-- Bar Fill (2 Projects -> 40% -> 140px) -->
-    <rect x="150" y="4" width="140" height="10" rx="5" fill="url(#bar-iot)" />
+    <rect x="180" y="4" width="320" height="10" rx="5" class="track" />
+    <!-- Bar Fill (2 Projects -> 40% -> 128px) -->
+    <rect x="180" y="4" width="128" height="10" rx="5" fill="url(#bar-da)" />
     <text x="515" y="13" class="count">2 Projects</text>
   </g>
 </svg>
