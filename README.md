@@ -1,133 +1,78 @@
-# Varizky Naldiba Rimra
+<a href="https://varizkynaldiba.vercel.app/">
+  <img src="image/header.svg" width="100%" alt="Varizky Naldiba Rimra" />
+</a>
 
-Applied Machine Learning and IoT Systems Engineer based in Malang, Indonesia. Final-year Informatics Engineering student at Politeknik Negeri Malang (2022–Present).
+I build sensor telemetry systems, train applied ML models, and ship production web platforms. Final-year Informatics Engineering student at Politeknik Negeri Malang.
 
-I design and build resilient, end-to-end data pipelines: from edge hardware and non-linear sensor calibration curves (ESP32/C++) to applied deep learning models (Computer Vision, LSTM) and cloud-connected spatial platforms.
+Right now I'm interning at **PT Naraya Telematika** working on generative AI animation pipelines (ComfyUI, Dify) and an ads manager platform integrated with Meta & Google Ads APIs. Before that I did an applied research stint at **BRIN** building a [flood early-warning WebGIS](https://simojang.let.polinema.ac.id/) for the Upper Brantas watershed.
 
-[![Portfolio Website](https://img.shields.io/badge/Production_Site-varizkynaldiba.vercel.app-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://varizkynaldiba.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-VarizkyNaldiba-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/VarizkyNaldiba)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varizky_Naldiba-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varizkynaldiba/)
-[![Email](https://img.shields.io/badge/Email-varizkynr%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:varizkynr@gmail.com)
+**→ [varizkynaldiba.vercel.app](https://varizkynaldiba.vercel.app/)** — full portfolio with interactive project case studies.
 
 ---
 
-## Verified Honors & Competitions
+### Selected Work
 
-| Recognition | Organization / Contest | Validated Project Scope | Year |
+**[Aquavion](https://aqua-vion.vercel.app/)** · [firmware](https://github.com/VarizkyNaldiba/Smart_Aqua_IOT) · [roadmap](https://dashboard-notion-aqua-vion.vercel.app/)  
+Real-time aquaculture telemetry (pH, temperature, turbidity) on ESP32 with polynomial calibration offsets and a non-volatile flash ring buffer for zero data loss during connectivity drops. Dashboard built with Next.js + Firebase.
+
+**CatfishCare** · [repo](https://github.com/VarizkyNaldiba/Smart_Aqua_IOT) · [dashboard](https://aqua-vion.vercel.app/)  
+Closed-loop pond aeration and water circulation triggered by dissolved oxygen thresholds. Won **2nd Runner Up** at the national LKTI Techno Fair & Seminar (TFS) 2026 — SK Direktur Polinema No. 27881/PL2.3/KM/2026.
+
+**[SIMOJANG Brantas](https://simojang.let.polinema.ac.id/)** · BRIN collaboration  
+Production participatory flood WebGIS for the Upper Brantas River Basin. Integrates BMKG radar, BPBD spatial risk data, and GPS-geofenced citizen reports. Built with Leaflet, GeoJSON, and OpenStreetMap.
+
+**[AlgaSense](https://github.com/VarizkyNaldiba/Algasense)**  
+Marine buoy telemetry + LSTM neural network harvest forecasting for seaweed cultivators in Sumenep, Madura. National finalist at LKTI TFS 2025.
+
+**[Crowd Density Estimation](https://github.com/VarizkyNaldiba/PenyelamHandal_Hology)**  
+Multi-column CNN density regression (MCNN / CSRNet) for high-density surveillance feeds with multi-scale receptive fields. Built for Hology 8.0 Data Mining competition.
+
+**[SLB Spatial Equity](https://huggingface.co/spaces/Tim-Maju-Lancar-Datathon/Dashboard-Tim-Maju-Lancar-Datathon-Jatim-2025)**  
+Geospatial disparity analysis of special education school infrastructure across 38 East Java regencies using Levenshtein fuzzy matching and Folium GIS. Datathon Jatim 2025.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VarizkyNaldiba&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" width="52%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarizkyNaldiba&layout=compact&hide_border=true&theme=transparent" width="40%" alt="Top Languages" />
+</div>
+
+---
+
+<details>
+<summary><b>All projects & verified honors</b></summary>
+<br/>
+
+#### Verified Honors
+
+| Recognition | Event | Project | Year |
 | :--- | :--- | :--- | :---: |
-| **Juara Harapan 2 (2nd Runner Up)** | LKTI Nasional Techno Fair & Seminar (TFS) 2026<br/>*SK Direktur Polinema No. 27881/PL2.3/KM/2026* | **CatfishCare**: Autonomous freshwater telemetry and closed-loop aeration control. | 2026 |
-| **Incentive Grant Phase 2 Recipient** | PKM POLINEMA 2026<br/>*SK No. 40/WADIR.III/KM/2026* | **Smart Aquaculture Intelligence System (SAIS)**: Digital twin modeling and distributed telemetry network. | 2026 |
-| **Rank 18 of 82 National Teams** | Intelecta Cup 2025 Data Competition<br/>*Kaggle Final Metric: 94.310* | **Agroclimatology ML**: Multivariate climatic regression predicting anomalous weather indices. | 2025 |
-| **National Finalist** | LKTI Nasional Techno Fair & Seminar (TFS) 2025<br/>*SK No. 16002/PL2.3/KM/2025* | **AlgaSense**: Marine telemetry and LSTM harvest forecasting in Sumenep, Madura. | 2025 |
-| **Official Participant** | Hology 8.0 National Data Mining Competition | **Crowd Density Estimation**: Multi-column convolutional neural regression (MCNN/CSRNet). | 2025 |
-| **Official Participant** | Jatim Datathon 2025 (Diskominfo Jawa Timur) | **SLB Accessibility Analysis**: Spatial disparity evaluation across 38 East Java regencies. | 2025 |
+| **2nd Runner Up** | LKTI Nasional TFS 2026 (SK No. 27881/PL2.3/KM/2026) | CatfishCare — Closed-loop aeration IoT | 2026 |
+| **Phase 2 Grantee** | PKM POLINEMA 2026 (SK No. 40/WADIR.III/KM/2026) | SAIS — Aquaculture digital twin framework | 2026 |
+| **Rank 18 / 82** | Intelecta Cup 2025 (Kaggle: 94.310) | Agroclimatology time-series weather forecasting | 2025 |
+| **National Finalist** | LKTI Nasional TFS 2025 (SK No. 16002/PL2.3/KM/2025) | AlgaSense — Marine IoT & LSTM forecasting | 2025 |
+| **Competitor** | Hology 8.0 Data Mining | Crowd density estimation (MCNN / CSRNet) | 2025 |
+| **Competitor** | Datathon Jatim 2025 (Diskominfo Jawa Timur) | SLB spatial disparity analysis | 2025 |
 
----
+#### Other Projects
 
-## Engineered Projects
+| Project | What it does | Links |
+| :--- | :--- | :--- |
+| **SAIS** | Digital twin framework for aquaculture ecosystem prediction. PKM-GFT 2026 Phase 2 grantee. | [overview](https://varizkynaldiba.vercel.app/#projects) |
+| **Agroclimatology ML** | Multivariate weather anomaly forecasting with CatBoost/XGBoost ensemble. Rank 18/82 nationally. | [showcase](https://varizkynaldiba.vercel.app/#projects) |
+| **AI Restaurant Advisory** | LLM-backed decision support for food business margins and BCG menu matrix. | [live app](https://varizkynaldiba-project-of-llm-based-tools-and-gem-fnb-rm-vjbmhr.streamlit.app/) |
+| **Fruit Classifier** | 16-class fruit recognition using GLCM, Wavelet 2D, and HOG features with SVM. | [HuggingFace](https://huggingface.co/spaces/Zelectra/PBL.MachineLearningAndPCVK) |
+| **SIMPRES** | Student achievement portal with PROMETHEE II talent-to-competition matching. | [repo](https://github.com/VarizkyNaldiba/Prestasi-Mahasiswa-S4) |
+| **Tata Tertib Mahasiswa** | Campus code-of-conduct management and disciplinary tracking system. | [repo](https://github.com/VarizkyNaldiba/TataTertibMhs) |
+| **School Spatial GIS** | K-Means clustering of secondary school coverage across East Java. | [repo](https://github.com/VarizkyNaldiba/SchoolSpatial_on_EastJava) |
 
-### 1. IoT, Sensor Telemetry & Hardware Systems
+</details>
 
-* **Aquavion — IoT Aquaculture Telemetry Platform**
-  * *Architecture:* Microcontroller-to-cloud telemetry tracking pH, DS18B20 temperature, and nephelometric turbidity for freshwater catfish ponds.
-  * *Engineering Highlight:* Developed polynomial calibration offset curves and a non-volatile circular flash ring buffer on the ESP32, preventing data loss during remote connectivity dropouts.
-  * *Stack:* Next.js, Firebase Realtime Database, ESP32, Arduino C++
-  * *Links:* [Live Dashboard](https://aqua-vion.vercel.app/) · [Firmware Repository](https://github.com/VarizkyNaldiba/Smart_Aqua_IOT) · [Technical Roadmap](https://dashboard-notion-aqua-vion.vercel.app/)
+<br/>
 
-* **CatfishCare — Automated Aquaculture Care System**
-  * *Architecture:* Closed-loop actuation system pairing physical optocoupler relays with submerged chemical sensors for real-time pond water treatment.
-  * *Engineering Highlight:* Enforced threshold-driven automatic water replenishment and aeration routines without cloud dependency.
-  * *Stack:* ESP32, C++, Sensor Probes, Relays, Control Loop
-  * *Links:* [Firmware Repository](https://github.com/VarizkyNaldiba/Smart_Aqua_IOT) · [Live Dashboard](https://aqua-vion.vercel.app/)
-
-* **Smart Aquaculture Intelligence System (SAIS)**
-  * *Architecture:* Digital twin framework and simulation model forecasting aquatic ecosystem parameters for commercial aquaculture.
-  * *Engineering Highlight:* Selected for the Phase 2 Incentive Grant under Polinema internal review.
-  * *Stack:* Digital Twin Modeling, AI Architecture, Autonomous IoT Network
-  * *Links:* [Project Overview](https://varizkynaldiba.vercel.app/#projects)
-
-* **AlgaSense — Marine Seaweed Aquaculture IoT & ML**
-  * *Architecture:* Marine buoy telemetry coupled with recurrent neural networks for harvest timeline prediction.
-  * *Engineering Highlight:* Trained LSTM networks over noisy marine time-series (salinity, pH, dissolved oxygen) filtered through sliding temporal windows.
-  * *Stack:* Python, TensorFlow, Keras LSTM, ESP32, Waterproof Probes
-  * *Links:* [Source Code](https://github.com/VarizkyNaldiba/Algasense)
-
----
-
-### 2. Machine Learning, Computer Vision & Analytics
-
-* **Multi-Column Crowd Density Estimation**
-  * *Architecture:* Deep convolutional regression network resolving perspective distortion in high-density surveillance feeds.
-  * *Engineering Highlight:* Constructed parallel multi-scale receptive filter heads (3x3, 5x5, 7x7) based on MCNN and CSRNet architectures.
-  * *Stack:* Python, PyTorch, TensorFlow, OpenCV
-  * *Links:* [Source Code](https://github.com/VarizkyNaldiba/PenyelamHandal_Hology)
-
-* **Agroclimatology Time-Series Weather Forecasting**
-  * *Architecture:* Multivariate regression pipeline forecasting regional climatic anomalies. Ranked 18/82 nationally with a Kaggle score of 94.310.
-  * *Engineering Highlight:* Engineered lag transformation matrices and trained gradient-boosted ensembles (CatBoost/XGBoost) with blocked cross-validation.
-  * *Stack:* Python, CatBoost, XGBoost, Scikit-Learn, Pandas
-  * *Links:* [Project Summary](https://varizkynaldiba.vercel.app/#projects)
-
-* **Fruit Variety Classification Pipeline**
-  * *Architecture:* Classical computer vision pipeline categorizing 16 fruit species under non-uniform illumination.
-  * *Engineering Highlight:* Combined Gray-Level Co-occurrence Matrix (GLCM), 2D Wavelet decomposition, and HOG gradient features fed into tuned Support Vector Machines.
-  * *Stack:* Python, OpenCV, Scikit-Learn, GLCM, Wavelet 2D, SVM
-  * *Links:* [HuggingFace Space](https://huggingface.co/spaces/Zelectra/PBL.MachineLearningAndPCVK)
-
-* **AI Restaurant Advisory System**
-  * *Architecture:* Deterministic decision-support application analyzing dish profit margins and ingredient volatility for food businesses.
-  * *Engineering Highlight:* Structured prompt schema enforcing mathematical calculations and Boston Consulting Group (BCG) portfolio matrices.
-  * *Stack:* Python, Google Gemini API, Streamlit
-  * *Links:* [Live Application](https://varizkynaldiba-project-of-llm-based-tools-and-gem-fnb-rm-vjbmhr.streamlit.app/)
-
----
-
-### 3. Geospatial Platforms & Full-Stack Systems
-
-* **SIMOJANG Brantas — Participatory Flood WebGIS**
-  * *Architecture:* Production hydrological risk WebGIS for the Upper Brantas River Basin in research collaboration with BRIN.
-  * *Engineering Highlight:* Built GPS-geofenced crowdsourcing workflows and optimized GeoJSON polygon rendering for high-frequency map updates.
-  * *Stack:* Leaflet, GeoJSON, OpenStreetMap, Spatial DB
-  * *Links:* [Live System](https://simojang.let.polinema.ac.id/)
-
-* **Special Education School (SLB) Spatial Disparity Analysis**
-  * *Architecture:* Regional spatial disparity index quantifying educational infrastructure access across 38 East Java regencies.
-  * *Engineering Highlight:* Implemented Levenshtein distance string matching to harmonize inconsistent administrative registries directly to geospatial polygon coordinates.
-  * *Stack:* Python, Pandas, GeoJSON, Folium GIS
-  * *Links:* [HuggingFace Space](https://huggingface.co/spaces/Tim-Maju-Lancar-Datathon/Dashboard-Tim-Maju-Lancar-Datathon-Jatim-2025)
-
-* **East Java Secondary School Spatial Distribution**
-  * *Architecture:* Point pattern clustering mapping secondary school coverage radii across urban and rural districts.
-  * *Engineering Highlight:* Used K-Means spatial clustering and buffer distance calculations to identify educational desert zones.
-  * *Stack:* Python, Folium, GeoJSON, Pandas, K-Means
-  * *Links:* [Source Code](https://github.com/VarizkyNaldiba/SchoolSpatial_on_EastJava)
-
-* **SIMPRES — Student Achievement Management Portal**
-  * *Architecture:* Departmental portal managing verified academic accomplishments, faculty endorsement workflows, and competition candidate selection.
-  * *Engineering Highlight:* Embedded PROMETHEE II multi-criteria algorithm to match verified student competencies against competition profiles.
-  * *Stack:* Laravel, PHP, MySQL, PROMETHEE DSS, RBAC
-  * *Links:* [Source Code](https://github.com/VarizkyNaldiba/Prestasi-Mahasiswa-S4)
-
-* **Sistem Tata Tertib Mahasiswa**
-  * *Architecture:* Campus compliance management platform digitizing disciplinary tracking and student appeals.
-  * *Engineering Highlight:* Replaced paper notices with an audit-logged workflow designed from interactive Figma prototypes.
-  * *Stack:* Laravel, PHP, MySQL, Bootstrap, Figma
-  * *Links:* [Source Code](https://github.com/VarizkyNaldiba/TataTertibMhs)
-
----
-
-## Technical Skills
-
-* **Core Languages:** Python, C/C++, JavaScript, PHP, SQL, HTML5, CSS3, R
-* **Machine Learning & AI:** TensorFlow, PyTorch, Keras, OpenCV, Scikit-Learn, LSTM, CNNs (MCNN, CSRNet), Google Gemini API
-* **Data Science & Geospatial:** Pandas, NumPy, Matplotlib, Seaborn, Folium GIS, QGIS, GeoJSON, Spatial Regression
-* **IoT & Embedded Systems:** ESP32, Arduino, Analog/Nephelometric Probes, Non-Linear Sensor Calibration, Flash Ring Buffering
-* **Web & Systems:** Next.js, React, Laravel, Streamlit, Firebase Realtime Database, MySQL, PostgreSQL, REST APIs
-* **Tools & Platforms:** Git, GitHub, Linux, VS Code, Google Colab, HuggingFace, Figma
-
----
-
-## Production Portfolio
-
-Full case studies, live telemetry visualizers, and interactive demos are accessible on my primary website:  
-**[https://varizkynaldiba.vercel.app/](https://varizkynaldiba.vercel.app/)**
+<p align="right">
+  <a href="https://varizkynaldiba.vercel.app/">website</a> · 
+  <a href="https://linkedin.com/in/varizkynaldiba">linkedin</a> · 
+  <a href="https://instagram.com/v.naldiba">instagram</a> · 
+  <a href="mailto:varizkynr@gmail.com">varizkynr@gmail.com</a>
+</p>
